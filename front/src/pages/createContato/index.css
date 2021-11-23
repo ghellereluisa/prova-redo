@@ -1,0 +1,13 @@
+.card-body {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: darkgray;
+  border-radius: 5%;
+}
+
+.cadastro-form {
+  width: 80%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-around;
+}
